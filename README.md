@@ -19,4 +19,4 @@ And also
 ```
 
 ### Minimal Example
-[![Try Model Generation In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3XL_generation.ipynb)
+[![Try Model Generation In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T5xZ7BT9tlrzOZx03TNU_WXujyBFuurn?usp=sharing)
